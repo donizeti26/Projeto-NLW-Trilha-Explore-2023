@@ -1,1 +1,3 @@
-# projeto_nlw_2023
+<p>
+ <img src=".github/preview.png" alt="Demonstração do projeto" width="100%">
+</p>
