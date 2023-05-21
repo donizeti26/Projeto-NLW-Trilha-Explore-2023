@@ -19,6 +19,7 @@ This project was developed during Rocketseat NLW with the following technologies
 
 
 ## 🎟Layout
+
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ido6FTtvlJnDoTU4ZOAs8F/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=306%3A3&t=ZXWX7UIzdkyyIgx1-1).
 É necessário ter uma conta no [Figma](https://www.figma.com)
 
@@ -27,4 +28,5 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 <img src="https://avatars.githubusercontent.com/u/61122214?v=4" width="100px" height="100px">
 
 Desenvolvido com 💜 Entre emcontato!👋🏿
-<a href="https://git-scm.com/docs/git/pt_BR" > <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>   <a href="https://git-scm.com/docs/git/pt_BR" > <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>   <a href="https://git-scm.com/docs/git/pt_BR" > <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="https://github.com/donizeti26?tab=repositories" > <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>   <a href="https://www.instagram.com/gatopreto.svg/" > <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>   <a href="https://www.linkedin.com/in/donizeti-neves-a666b31b0/" > <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
