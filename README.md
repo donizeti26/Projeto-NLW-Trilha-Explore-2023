@@ -2,6 +2,7 @@
  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%">
 </p>
 <h1 align="center">Projeto CONCLUIDO ✅</h1>
+
 ## 💻 Projeto 
 
 Esse é um projeto Web Responsivo de uma capsula do tempo, para exibir memórias em uma linha do tempo.
